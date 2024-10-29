@@ -13,8 +13,9 @@ export default function Home() {
           Corporate Empire
         </h1>
         <p className="mt-4 text-xl text-muted-foreground max-w-2xl mx-auto">
-          Build and manage your own corporate empire in this engaging business simulation game.
-          Make strategic decisions, lead your team, and compete to become a market leader.
+          Build and manage your own corporate empire in this engaging business
+          simulation game. Make strategic decisions, lead your team, and compete
+          to become a market leader.
         </p>
         <div className="mt-12">
           <Link href="/dashboard">
